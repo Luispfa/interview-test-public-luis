@@ -1,0 +1,37 @@
+{
+    "901001": {
+        "name": "Pasta de dientes",
+        "shops": {
+            "Promofarma": 1.50,
+            "Farmacia Martorell": 2.50,
+            "Missfarma": 2.15,
+            "Farmacia Orjales": 3.00
+        }
+    },
+    "901002": {
+        "name": "Jarabe para la tos",
+        "shops": {
+            "Farmacia Vence": 3.60,
+            "Openfarma": 2.52,
+            "Missfarma": 2.55,
+            "Farmasky": 3.15,
+            "Promofarma": 3.20
+        }
+    },
+    "901003": {
+        "name": "Pack pañales",
+        "shops": {
+            "Farmasky": 16.25,
+            "Openfarma": 9.75,
+            "Farmacia Martorell": 13.50
+        }
+    },
+    "901004": {
+        "name": "Crema solar",
+        "shops": {
+            "Farmacia Martorell": 6.89,
+            "Openfarma": 6.35,
+            "Promofarma": 7.62
+        }
+    }
+}
